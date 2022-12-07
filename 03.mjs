@@ -44,6 +44,7 @@ const findCommonBadge = (l1, l2, l3) => {
     }
   }
 }
+
 totalPrio = 0;
 for (let grp = 0; grp < input.length / 3; grp++) {
   const line1 = input[grp * 3];
