@@ -1,6 +1,3 @@
-import { textChangeRangeIsUnchanged } from "typescript";
-import { threadId } from "worker_threads";
-
 export class TreeMap {
   map: number[][];
 
