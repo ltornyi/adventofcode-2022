@@ -1,4 +1,4 @@
-import { readInputFile } from "./lib.mjs";
+import { readInputFile } from "../libs/lib.mjs";
 
 //each line is a pair of intervals, separated by a comma
 //example line: 2-4,4-8

@@ -1,4 +1,4 @@
-import { readInputFile } from "./lib.mjs";
+import { readInputFile } from "../libs/lib.mjs";
 
 const getNumberOfStacks = (crateInput) => {
   const stackLine = crateInput

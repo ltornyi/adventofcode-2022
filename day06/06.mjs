@@ -1,4 +1,4 @@
-import { equalTest, readInputFile } from "./lib.mjs";
+import { equalTest, readInputFile } from "../libs/lib.mjs";
 const input = readInputFile('./06input.txt');
 
 const signal = input[0];
